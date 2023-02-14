@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 printf "%.2f\n" $NUM
+=======
+printf "%0.2\n" $NUM
+>>>>>>> 44993eff55bda3103d97ac5e1acd547cf0271ba0
